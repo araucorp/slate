@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: API Reference Test
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
@@ -20,10 +20,10 @@ code_clipboard: true
 
 meta:
   - name: description
-    content: Documentation for the Kittn API
+    content: Documentation for the Kitten API
 ---
 
-# Introduction
+# Introduction (test)
 
 Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
 
